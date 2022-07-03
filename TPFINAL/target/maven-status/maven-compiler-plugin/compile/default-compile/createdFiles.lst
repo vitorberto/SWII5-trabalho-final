@@ -1,0 +1,8 @@
+Customer\CustomerController.class
+Order\Order.class
+Salesman\servlets\ListSalesmenServlet.class
+ConnectionProvider\ConnectionProvider.class
+Salesman\SalesmanController.class
+Customer\Customer.class
+Order\OrderController.class
+Salesman\Salesman.class
